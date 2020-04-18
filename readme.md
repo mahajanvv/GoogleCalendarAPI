@@ -18,6 +18,7 @@ To book a meeting room in an organization we use calendar App given by Gsuite. W
 ## This tutorial is involved in TWO Stages.
 
 ### Stage 1 (Making Google Calendar APIs Up and running):
+* [Steup needs to be done on Google Calendar API Side](https://github.com/mahajanvv/GoogleCalendarAPI/blob/master/setup_required_on_google_calendar_side.md)
 * Connecting to Google Calendar from Lambda (AWS)
 * Connecting to Google Calendar from Local Machine (Optional)
 
