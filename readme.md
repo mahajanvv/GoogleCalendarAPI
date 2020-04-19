@@ -19,7 +19,7 @@ To book a meeting room in an organization we use calendar App given by Gsuite. W
 
 ### Stage 1 (Making Google Calendar APIs Up and running):
 * [Setup needs to be done on Google Calendar API Side](https://github.com/mahajanvv/GoogleCalendarAPI/blob/master/setup_required_on_google_calendar_side.md)
-* Connecting to Google Calendar from Lambda (AWS)
+* Connecting to Google Calendar from Lambda (https://github.com/mahajanvv/GoogleCalendarAPI/blob/master/Connect_from_aws_lambda) (AWS)
 * [Connecting to Google Calendar from Local Machine](https://github.com/mahajanvv/GoogleCalendarAPI/blob/master/Connect_from_local_machine) (Optional)
 
 ### Stage 2 (Integrating Google Calendar APIs with Amazon Lex Chatbot)

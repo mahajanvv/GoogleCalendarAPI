@@ -12,7 +12,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 ```
 
 ### Let's write code to fetch upcoming 10 events for logged in user
-[Code is here]()
+[Code is here](https://github.com/mahajanvv/GoogleCalendarAPI/blob/master/Connect_from_local_machine/fetch_upcoming_ten_events.py)
 
 ### Let's run this file on local machine 
 Run using the following command:
